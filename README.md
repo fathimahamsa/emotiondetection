@@ -1,2 +1,14 @@
-# emotiondetection
-This project is a Real-Time Emotion Detection System that uses DeepFace to recognize emotions from a webcam feed and converts the detected emotion into speech using gTTS (or pyttsx3). The program speaks aloud only when the detected emotion changes.
+# Real-Time Emotion Detection with Voice Feedback
+
+This project detects human emotions in real time using a webcam and announces the detected emotion through speech. It is built using **DeepFace**, **OpenCV**, and **Text-to-Speech**.
+
+## 🔥 Features
+- Real-time webcam emotion detection  
+- Uses DeepFace’s state-of-the-art facial emotion recognition  
+- Converts detected emotions to speech  
+- Speaks only when the emotion changes (prevents repetition)  
+- Simple and easy to run  
+
+---
+
+
