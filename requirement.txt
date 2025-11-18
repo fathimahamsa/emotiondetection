@@ -1,0 +1,17 @@
+
+for gTTS
+opencv-python
+deepface
+gtts
+playsound
+tensorflow
+numpy
+If you switch to pyttsx3 instead of gTTS, then use this version:
+
+Copy code
+opencv-python
+deepface
+pyttsx3
+playsound
+tensorflow
+numpy
